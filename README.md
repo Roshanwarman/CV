@@ -1,1 +1,1 @@
-# CVimage-processing
+# COSC 475
